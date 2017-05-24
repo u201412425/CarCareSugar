@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CarCare</string>
+    <string name="title_activity_dashboard">CarCare</string>
+    <string name="title_activity_fuel_up_entries">FuelUp Entries</string>
+    <string name="title_activity_add_fuel_up_entry">New FuelUp Entry</string>
+    <string name="welcome_title">CarCare</string>
+    <string name="welcome_start_button_title">Start</string>
+</resources>
